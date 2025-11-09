@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-!{% include feature/image.html objectid="2013279-1" width="75" %}
+![% include feature/image.html objectid="2013279-1" width="75" %]
 
 ## When did Hurricane Donna hit?
 
