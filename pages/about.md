@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-![Alt text](objects/2013277-1.jpg)
+![Alt text](objects/2013275-1.jpg)
 
 ## What is the goal of this exhibition?
 
