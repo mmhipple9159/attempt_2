@@ -14,6 +14,7 @@ credits: true
 
 The Hurricane Donna exhibition features pictures and newspapers highlighting what happened when the storm hit Florida in 1960. Focusing on the more tragic aspects of this event, the goal of this exhibition is to call attention to the mass amounts of flooding that people dealt with as well as showcase how much damage was caused in the aftermath of the event. 
 
+![Alt text](objects/out.pdf)
 
 ## What Happened?
 
@@ -25,9 +26,6 @@ Hurricane Donna hit Florida for the first time on September 10, 1960, causing ir
 It is mostly consisting of newpapers and photographs but we collected a large amount of personal accounts and health records from the Collier County Museum as well. Our researchers have worked diligently in order to ensure everything captured in this collection highlights the accounts of real people who lived in Florida during the storm and suffered through the effects that such a powerful hurricane had on the once bright state of Florida. 
 
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
