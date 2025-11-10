@@ -11,6 +11,7 @@
 # on GitHub Pages follows the pattern username.github.io
 #url: https://collectionbuilder.github.io 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
+#baseurl: /collectionbuilder-gh 
 # on GitHub Pages it is your github repository's name prefixed with a /
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
@@ -56,13 +57,11 @@ metadata: mymetadata_4
 # Note: use environment variable on build command to include analytics
 # JEKYLL_ENV=production jekyll build
 # (this is done automatically by gh-pages build)
-#
+theme: jekyll-theme-slate
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md, CONTRIBUTING.md]
 # compress CSS output
 sass:
   style: compressed
 
-
-theme: jekyll-theme-slate
 
