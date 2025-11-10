@@ -8,6 +8,4 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Subjects
-
-Hurricane Donna, Photographs, Nature, Destruction, Death, Flood, Federal Assistance, Health
+## Subjects Included
